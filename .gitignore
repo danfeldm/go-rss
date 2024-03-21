@@ -1,2 +1,4 @@
 .vscode/
 go-rss.exe
+.env
+thunder-test/
